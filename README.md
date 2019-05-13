@@ -5,9 +5,10 @@ How does the bank work?
 
 
 Assets:
+Financial Assets: https://www.investopedia.com/terms/f/financialasset.asp
 Liability:
 Equity:
-Capital:
+Capital: https://www.investopedia.com/terms/c/capital.asp
 
 Credit cards work by:
 

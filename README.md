@@ -17,3 +17,7 @@ How do we minimize the risk of default when banks lend money?
 
 Securitization: https://www.investopedia.com/ask/answers/07/securitization.asp
 Security: https://www.investopedia.com/terms/s/security.asp
+
+All About Backend Development:
+1. https://learntocodewith.me/posts/backend-development/
+2. https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/

@@ -27,5 +27,15 @@ Basel III: https://www.investopedia.com/terms/b/basell-iii.asp
 Understanding Basel III: https://www.investopedia.com/articles/economics/10/understanding-basel-3-regulations.asp
 
 All About Backend Development:
-1. https://learntocodewith.me/posts/backend-development/
-2. https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/
+1. Surface Level Understanding of Backend: https://learntocodewith.me/posts/backend-development/
+2. Intro to Backend: https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/
+3. Deeper Dive to Backend: https://www.upwork.com/hiring/development/server-side-scripting-back-end-web-development-technology/
+4. Deeper Dive to Backend Part 2: 
+
+Server Side Code & Databases
+How it works: If a database is a site’s library, server-side scripting processes what the user is looking for via the server, then locates the book, chapter, page, and exact line of data, delivering that information back to the browser. It’s designed to be smooth, fast, and seamless.
+
+This is all possible through the server-side software and middleware your back-end developer writes, which create a tailored channel from site to database. Information for your site resides on the server until it’s requested, which makes your site both fast and secure.
+
+Popular server-side languages:
+

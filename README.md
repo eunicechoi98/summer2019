@@ -30,7 +30,13 @@ All About Backend Development:
 1. Surface Level Understanding of Backend: https://learntocodewith.me/posts/backend-development/
 2. Intro to Backend: https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/
 3. Deeper Dive to Backend: https://www.upwork.com/hiring/development/server-side-scripting-back-end-web-development-technology/
-4. Deeper Dive to Backend Part 2: 
+4. Deeper Dive to Backend Part 2: https://www.upwork.com/hiring/development/back-end-web-developer/
+
+All About Frontend Development:
+1. https://www.upwork.com/hiring/development/front-end-developer/
+2. https://www.upwork.com/hiring/development/how-scripting-languages-work/
+
+
 
 Server Side Code & Databases
 How it works: If a database is a site’s library, server-side scripting processes what the user is looking for via the server, then locates the book, chapter, page, and exact line of data, delivering that information back to the browser. It’s designed to be smooth, fast, and seamless.

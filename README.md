@@ -36,7 +36,11 @@ All About Frontend Development:
 1. https://www.upwork.com/hiring/development/front-end-developer/
 2. https://www.upwork.com/hiring/development/how-scripting-languages-work/
 
+All about Backend Software Stacks:
+https://www.upwork.com/hiring/development/choosing-the-right-software-stack-for-your-website/
 
+1. How to choose your stack: https://svsg.co/how-to-choose-your-tech-stack/
+2. Choosing your stack: https://medium.com/educalabs/choosing-a-backend-tech-stack-in-2018-b415e5f436d3
 
 Server Side Code & Databases
 How it works: If a database is a site’s library, server-side scripting processes what the user is looking for via the server, then locates the book, chapter, page, and exact line of data, delivering that information back to the browser. It’s designed to be smooth, fast, and seamless.

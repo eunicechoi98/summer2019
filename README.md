@@ -47,6 +47,12 @@ How it works: If a database is a site’s library, server-side scripting process
 
 This is all possible through the server-side software and middleware your back-end developer writes, which create a tailored channel from site to database. Information for your site resides on the server until it’s requested, which makes your site both fast and secure.
 
+
+Node.js: https://www.w3schools.com/nodejs/nodejs_intro.asp
+
+C#.NET Basics:
+1. https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework
+2. https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/introduction
 Popular server-side languages:
 
 Relational Database:

@@ -58,5 +58,8 @@ C#.NET Basics:
 2. https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/introduction
 Popular server-side languages:
 
+Synchronous vs. Asynchronous:
+https://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean
+
 Relational Database:
 https://www.smartsheet.com/relational-database

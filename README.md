@@ -63,3 +63,8 @@ https://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution
 
 Relational Database:
 https://www.smartsheet.com/relational-database
+
+Calculating Capital for Securitization:
+https://www.moodysanalytics.com/-/media/whitepaper/2017/capital-calculations-under-the-revised-securitasation-framework.pdf
+
+

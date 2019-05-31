@@ -67,4 +67,6 @@ https://www.smartsheet.com/relational-database
 Calculating Capital for Securitization:
 https://www.moodysanalytics.com/-/media/whitepaper/2017/capital-calculations-under-the-revised-securitasation-framework.pdf
 
+OSI & 7 Layers of Network
+https://medium.com/@madhavbahl10/osi-model-layers-explained-ee1d43058c1f
 

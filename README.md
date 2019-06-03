@@ -70,3 +70,6 @@ https://www.moodysanalytics.com/-/media/whitepaper/2017/capital-calculations-und
 OSI & 7 Layers of Network
 https://medium.com/@madhavbahl10/osi-model-layers-explained-ee1d43058c1f
 
+Connecting Oracle SQL Server Database with Visual Studio C#:
+https://www.youtube.com/watch?v=V9r-Gp3uNCE
+

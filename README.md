@@ -73,3 +73,6 @@ https://medium.com/@madhavbahl10/osi-model-layers-explained-ee1d43058c1f
 Connecting Oracle SQL Server Database with Visual Studio C#:
 https://www.youtube.com/watch?v=V9r-Gp3uNCE
 
+Generating ERD on Oracle DB SQL Developer:
+https://www.thatjeffsmith.com/archive/2011/11/how-to-generate-an-erd-for-selected-tables-in-sql-developer/
+

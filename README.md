@@ -76,3 +76,12 @@ https://www.youtube.com/watch?v=V9r-Gp3uNCE
 Generating ERD on Oracle DB SQL Developer:
 https://www.thatjeffsmith.com/archive/2011/11/how-to-generate-an-erd-for-selected-tables-in-sql-developer/
 
+Datatypes in SQL:
+https://docs.microsoft.com/en-us/sql/t-sql/data-types/int-bigint-smallint-and-tinyint-transact-sql?view=sql-server-2017
+
+Numerical Data in SQL:
+https://academy.vertabelo.com/blog/understanding-numerical-data-types-sql/
+
+DataType for 0 & 1:
+https://stackoverflow.com/questions/3138029/is-there-a-boolean-data-type-in-microsoft-sql-server-like-there-is-in-mysql
+

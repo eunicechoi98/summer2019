@@ -85,3 +85,23 @@ https://academy.vertabelo.com/blog/understanding-numerical-data-types-sql/
 DataType for 0 & 1:
 https://stackoverflow.com/questions/3138029/is-there-a-boolean-data-type-in-microsoft-sql-server-like-there-is-in-mysql
 
+**Week 10: Friday, July 12th, 2019**
+*How to write a script in C#:*
+https://www.codeproject.com/Articles/1187852/Practical-example-of-adding-Csharp-scripting-suppo
+
+*How to call a web service in C#*
+https://www.google.com/search?q=how+to+call+a+web+service+from+C%23&rlz=1C1GCEA_enCA849CA849&oq=how+to+call+a+web+service+from+C%23&aqs=chrome..69i57.8058j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=1
+
+*How to connect a SQL Db to your C# Program*
+https://www.codeproject.com/Articles/823854/How-to-connect-SQL-Database-to-your-Csharp-program
+
+*How to add scripting functionality to >NET applications*
+* https://stackoverflow.com/questions/260/adding-scripting-functionality-to-net-applications
+* https://msdn.microsoft.com/en-us/magazine/mt614271.aspx
+* https://github.com/dotnet/roslyn/wiki/Scripting-API-Samples
+
+*How to execute SQL script in C#*
+https://stackoverflow.com/questions/650098/how-to-execute-an-sql-script-file-using-c-sharp
+
+
+
